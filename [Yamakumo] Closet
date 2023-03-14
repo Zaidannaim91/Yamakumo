@@ -1,0 +1,33 @@
+{
+   "title":"[Yamakumo] Closet",
+   "description":"",
+   "author":"Yamakumo",
+   "artist":"Yamakumo",
+   "cover":"https://i.imgur.com/cPsmpNA.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xPus5TG"
+         },
+         "last_updated":1624606143,
+         "title":"Closet 0 - Stolen Innocence",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Mt09b6C"
+         },
+         "last_updated":1624606143,
+         "title":"Closet 1 - The Truth About His Childhood Friend",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/nuOUGw6"
+         },
+         "last_updated":1624606143,
+         "title":"Closet 2 - The Conclusion",
+         "volume":"3"
+      }
+   }
+}
