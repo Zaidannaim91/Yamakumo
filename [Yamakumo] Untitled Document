@@ -1,0 +1,25 @@
+{
+   "title":"[Yamakumo] Untitled Document",
+   "description":"",
+   "author":"Yamakumo",
+   "artist":"Yamakumo",
+   "cover":"https://i.imgur.com/D0NkahL.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uIGcP5R"
+         },
+         "last_updated":1624606143,
+         "title":"Untitled Document",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HWco4la"
+         },
+         "last_updated":1624606143,
+         "title":"Untitled Document 2",
+         "volume":"2"
+      }
+   }
+}
